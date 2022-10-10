@@ -1,0 +1,16 @@
+.cekbang {
+  border: 1px solid red;
+}
+
+/* Font Family : LATO */
+
+@font-face {
+  font-family: "lato";
+  src: url("../assets/lato/Lato-Regular.ttf");
+}
+
+/* Setting Font Family to Default */
+
+* {
+  font-family: "lato";
+}
